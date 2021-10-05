@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ElvikisD
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning java, html, css, phyton and onther languages.
+- 📫 How to reach me?-gmail: donataselvikis22@gmail.com
